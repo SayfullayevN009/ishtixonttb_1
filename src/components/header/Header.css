@@ -1,0 +1,45 @@
+body{
+    display: flex;align-items: center;justify-content: center;padding: 20px;
+}
+.Header_logo {
+    width: 150px;
+    cursor: pointer;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    border-bottom: 1px solid dodgerblue;
+    padding-bottom: 20px;
+    width: 1200px;
+}
+
+.box2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 45px;
+    font-weight: 700;
+    color: blue;
+}
+.line{
+    transition: .5s;
+    text-decoration: none;
+    color: rgb(15, 155, 163);
+}
+.line:hover{
+    border-bottom: 1px solid rgb(15, 155, 163);
+    transition: 1s;
+    cursor: pointer;
+}
+select{
+    width: 60px;
+    cursor: pointer;
+    outline: none;
+    border: 1px solid transparent;
+    font-size: 20px;font-weight: 600;
+    color: dodgerblue;
+    text-transform: uppercase;
+}

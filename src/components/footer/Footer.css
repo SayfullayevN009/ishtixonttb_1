@@ -1,0 +1,110 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container_f {
+    background-color: rgb(15, 155, 163);
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.f_box1 {
+    color: white;
+    margin-top: -20px;
+}
+
+.loc {
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 6px;
+    margin-bottom: 5px;
+}
+
+.line1 {
+    text-decoration: none;
+    color: white;
+}
+
+.sam {
+    font-style: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    margin-bottom: 30px;
+}
+
+.t1 {
+    font-size: 24px;
+    margin-bottom: 6px;
+    line-height: 29px;
+    font-weight: 600;
+}
+
+.t2 {
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.f_box2 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: -15px;
+    font-weight: 700;
+    color: blue;
+}
+
+.container_f {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.F_img2 {
+    height: 177px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.p4 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+.p5 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 6px;
+    color: white;
+}
+
+.asd {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 23px;
+    color: white;
+    margin-top: 10px;
+}
+
+.title1 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    color: white;
+    cursor: pointer;
+}
+.f_logo{
+    margin-top: -20px;
+    width: 170px;
+    margin-bottom: 20px;
+}
+/* .f_box3{
+    margin-top: -50px;
+} */
